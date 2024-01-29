@@ -1,0 +1,6 @@
+# 📁 requirements.txt -----
+
+authlib ~= 1.0
+django ~= 4.2.4
+python-dotenv ~= 0.19
+requests ~= 2.27
